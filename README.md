@@ -17,4 +17,12 @@
 |  |
 | ------- |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/SangamSangwan/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/SangamSangwan/Leetcode/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/SangamSangwan/Leetcode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
