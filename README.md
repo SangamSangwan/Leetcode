@@ -6,6 +6,7 @@
 | ------- |
 | [1598-crawler-log-folder](https://github.com/SangamSangwan/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/SangamSangwan/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SangamSangwan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/SangamSangwan/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Simulation
 |  |
@@ -23,6 +24,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/SangamSangwan/Leetcode/tree/master/0062-unique-paths) |
 | [0728-self-dividing-numbers](https://github.com/SangamSangwan/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SangamSangwan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/SangamSangwan/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 ## Linked List
 |  |
@@ -54,4 +56,5 @@
 |  |
 | ------- |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/SangamSangwan/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SangamSangwan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
