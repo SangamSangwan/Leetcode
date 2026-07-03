@@ -17,6 +17,7 @@
 | ------- |
 | [1598-crawler-log-folder](https://github.com/SangamSangwan/Leetcode/tree/master/1598-crawler-log-folder) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SangamSangwan/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SangamSangwan/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2860-happy-students](https://github.com/SangamSangwan/Leetcode/tree/master/2860-happy-students) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/SangamSangwan/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/SangamSangwan/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -65,5 +66,6 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SangamSangwan/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2860-happy-students](https://github.com/SangamSangwan/Leetcode/tree/master/2860-happy-students) |
 <!---LeetCode Topics End-->
