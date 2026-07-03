@@ -8,14 +8,9 @@ public:
         {
             if(i+1<nums.size())
             {
-                if( nums[i]<i+1) 
+                if( nums[i]<i+1 && nums[i+1]>i+1) 
                 {
-                    if(nums[i+1]>i+1)
-                    {
-                        ways++;
-                        cout << i << endl;
-                    }
-                    
+                    ways++;    
                 }
                
             }
