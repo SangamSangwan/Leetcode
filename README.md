@@ -17,6 +17,7 @@
 | ------- |
 | [1598-crawler-log-folder](https://github.com/SangamSangwan/Leetcode/tree/master/1598-crawler-log-folder) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SangamSangwan/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2860-happy-students](https://github.com/SangamSangwan/Leetcode/tree/master/2860-happy-students) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/SangamSangwan/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/SangamSangwan/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Math
@@ -57,4 +58,12 @@
 | ------- |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/SangamSangwan/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SangamSangwan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Sorting
+|  |
+| ------- |
+| [2860-happy-students](https://github.com/SangamSangwan/Leetcode/tree/master/2860-happy-students) |
+## Enumeration
+|  |
+| ------- |
+| [2860-happy-students](https://github.com/SangamSangwan/Leetcode/tree/master/2860-happy-students) |
 <!---LeetCode Topics End-->
