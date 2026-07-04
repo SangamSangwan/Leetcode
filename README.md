@@ -90,4 +90,8 @@
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/SangamSangwan/Leetcode/tree/master/0938-range-sum-of-bst) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/SangamSangwan/Leetcode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
