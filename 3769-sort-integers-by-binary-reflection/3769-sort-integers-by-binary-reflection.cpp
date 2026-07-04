@@ -8,7 +8,7 @@ public:
             int temp = nums[i];
 
             while (temp != 0) {
-                reflection = reflection * 2 + (temp & 1);
+                reflection = (reflection<<1) | (temp & 1);
                 temp >>= 1;
             }
 
