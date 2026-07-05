@@ -33,6 +33,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/SangamSangwan/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/SangamSangwan/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/SangamSangwan/Leetcode/tree/master/0070-climbing-stairs) |
 | [0728-self-dividing-numbers](https://github.com/SangamSangwan/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SangamSangwan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/SangamSangwan/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -52,6 +53,7 @@
 | [0062-unique-paths](https://github.com/SangamSangwan/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SangamSangwan/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/SangamSangwan/Leetcode/tree/master/0070-climbing-stairs) |
 ## Combinatorics
 |  |
 | ------- |
@@ -110,4 +112,8 @@
 | [0059-spiral-matrix-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SangamSangwan/Leetcode/tree/master/0064-minimum-path-sum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SangamSangwan/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
