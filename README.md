@@ -40,6 +40,7 @@
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/SangamSangwan/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3648-minimum-sensors-to-cover-grid](https://github.com/SangamSangwan/Leetcode/tree/master/3648-minimum-sensors-to-cover-grid) |
 | [3649-number-of-perfect-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/3649-number-of-perfect-pairs) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SangamSangwan/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
 | ------- |
@@ -121,4 +122,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SangamSangwan/Leetcode/tree/master/0070-climbing-stairs) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SangamSangwan/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
