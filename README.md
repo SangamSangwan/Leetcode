@@ -37,6 +37,7 @@
 | [0728-self-dividing-numbers](https://github.com/SangamSangwan/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SangamSangwan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/SangamSangwan/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3648-minimum-sensors-to-cover-grid](https://github.com/SangamSangwan/Leetcode/tree/master/3648-minimum-sensors-to-cover-grid) |
 ## Linked List
 |  |
 | ------- |
