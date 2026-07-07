@@ -39,6 +39,7 @@
 | [0066-plus-one](https://github.com/SangamSangwan/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/SangamSangwan/Leetcode/tree/master/0070-climbing-stairs) |
 | [0728-self-dividing-numbers](https://github.com/SangamSangwan/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [1486-xor-operation-in-an-array](https://github.com/SangamSangwan/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/SangamSangwan/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/SangamSangwan/Leetcode/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SangamSangwan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -141,4 +142,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/SangamSangwan/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/SangamSangwan/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
