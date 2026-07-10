@@ -1,24 +1,24 @@
 class Solution {
 public:
-    void solve(vector<int>& nums,vector<int> output,int index,vector<vector<int>>& ans)
+    void getallSubset(vector<int> &nums , vector<int> &ans,int i,vector<vector<int>> &allSubset)
     {
-        if(index >= nums.size()) 
+        if(i==nums.size())
         {
-            ans.push_back(output);
+            allSubset.push_back({ans});
             return;
         }
-         // left
-        solve(nums,output,index+1,ans);
-        //take
-        output.push_back(nums[index]);
-        solve(nums,output,index+1,ans);
-        return;
+
+        ans.push_back(nums[i]);
+        getallSubset(nums,ans,i+1,allSubset);
+
+        ans.pop_back();
+        getallSubset(nums,ans,i+1,allSubset);
     }
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> ans;
-        vector<int> output;
-        int index=0;
-        solve(nums,output,index,ans);
-        return ans;
+        vector<vector<int>> allSubset;
+        vector<int> ans;
+        getallSubset(nums,ans,0,allSubset);
+
+        return allSubset;
     }
 };
