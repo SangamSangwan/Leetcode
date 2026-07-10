@@ -24,6 +24,7 @@
 | [0063-unique-paths-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SangamSangwan/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/SangamSangwan/Leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/SangamSangwan/Leetcode/tree/master/0078-subsets) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SangamSangwan/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/SangamSangwan/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SangamSangwan/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -159,6 +160,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SangamSangwan/Leetcode/tree/master/0078-subsets) |
 | [1486-xor-operation-in-an-array](https://github.com/SangamSangwan/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -172,4 +174,8 @@
 |  |
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SangamSangwan/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/SangamSangwan/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
