@@ -52,6 +52,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SangamSangwan/Leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/SangamSangwan/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/SangamSangwan/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/SangamSangwan/Leetcode/tree/master/0070-climbing-stairs) |
@@ -67,6 +68,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SangamSangwan/Leetcode/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/SangamSangwan/Leetcode/tree/master/0061-rotate-list) |
 ## Two Pointers
 |  |
@@ -190,4 +192,8 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SangamSangwan/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/SangamSangwan/Leetcode/tree/master/0078-subsets) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/SangamSangwan/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
