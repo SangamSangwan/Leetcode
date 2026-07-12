@@ -14,6 +14,7 @@
 | [2278-percentage-of-letter-in-string](https://github.com/SangamSangwan/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2299-strong-password-checker-ii](https://github.com/SangamSangwan/Leetcode/tree/master/2299-strong-password-checker-ii) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/SangamSangwan/Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2810-faulty-keyboard](https://github.com/SangamSangwan/Leetcode/tree/master/2810-faulty-keyboard) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SangamSangwan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/SangamSangwan/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Simulation
@@ -21,6 +22,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [2293-min-max-game](https://github.com/SangamSangwan/Leetcode/tree/master/2293-min-max-game) |
+| [2810-faulty-keyboard](https://github.com/SangamSangwan/Leetcode/tree/master/2810-faulty-keyboard) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/SangamSangwan/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Array
 |  |
