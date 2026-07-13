@@ -73,11 +73,13 @@
 | [0021-merge-two-sorted-lists](https://github.com/SangamSangwan/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/SangamSangwan/Leetcode/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SangamSangwan/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/SangamSangwan/Leetcode/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SangamSangwan/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3649-number-of-perfect-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/3649-number-of-perfect-pairs) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/SangamSangwan/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
