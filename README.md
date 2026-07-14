@@ -56,6 +56,7 @@
 | [0062-unique-paths](https://github.com/SangamSangwan/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/SangamSangwan/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/SangamSangwan/Leetcode/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/SangamSangwan/Leetcode/tree/master/0279-perfect-squares) |
 | [0728-self-dividing-numbers](https://github.com/SangamSangwan/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/SangamSangwan/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/SangamSangwan/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
@@ -91,6 +92,7 @@
 | [0063-unique-paths-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SangamSangwan/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/SangamSangwan/Leetcode/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/SangamSangwan/Leetcode/tree/master/0279-perfect-squares) |
 ## Combinatorics
 |  |
 | ------- |
@@ -205,4 +207,8 @@
 | [0002-add-two-numbers](https://github.com/SangamSangwan/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/SangamSangwan/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/SangamSangwan/Leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
