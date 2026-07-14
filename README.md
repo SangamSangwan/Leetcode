@@ -27,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SangamSangwan/Leetcode/tree/master/0011-container-with-most-water) |
 | [0059-spiral-matrix-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SangamSangwan/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -80,6 +81,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SangamSangwan/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SangamSangwan/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/SangamSangwan/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -115,6 +117,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SangamSangwan/Leetcode/tree/master/0011-container-with-most-water) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/SangamSangwan/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/SangamSangwan/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SangamSangwan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
