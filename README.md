@@ -22,6 +22,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [2293-min-max-game](https://github.com/SangamSangwan/Leetcode/tree/master/2293-min-max-game) |
+| [2460-apply-operations-to-an-array](https://github.com/SangamSangwan/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2810-faulty-keyboard](https://github.com/SangamSangwan/Leetcode/tree/master/2810-faulty-keyboard) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/SangamSangwan/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Array
@@ -42,6 +43,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/SangamSangwan/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/SangamSangwan/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2293-min-max-game](https://github.com/SangamSangwan/Leetcode/tree/master/2293-min-max-game) |
+| [2460-apply-operations-to-an-array](https://github.com/SangamSangwan/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SangamSangwan/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/SangamSangwan/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SangamSangwan/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -85,6 +87,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SangamSangwan/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/SangamSangwan/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [2460-apply-operations-to-an-array](https://github.com/SangamSangwan/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SangamSangwan/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3649-number-of-perfect-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/3649-number-of-perfect-pairs) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/SangamSangwan/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
