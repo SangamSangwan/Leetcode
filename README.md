@@ -6,6 +6,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SangamSangwan/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0771-jewels-and-stones](https://github.com/SangamSangwan/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0859-buddy-strings](https://github.com/SangamSangwan/Leetcode/tree/master/0859-buddy-strings) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/SangamSangwan/Leetcode/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1496-path-crossing](https://github.com/SangamSangwan/Leetcode/tree/master/1496-path-crossing) |
 | [1598-crawler-log-folder](https://github.com/SangamSangwan/Leetcode/tree/master/1598-crawler-log-folder) |
@@ -115,6 +116,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SangamSangwan/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0771-jewels-and-stones](https://github.com/SangamSangwan/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0859-buddy-strings](https://github.com/SangamSangwan/Leetcode/tree/master/0859-buddy-strings) |
 | [1496-path-crossing](https://github.com/SangamSangwan/Leetcode/tree/master/1496-path-crossing) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/SangamSangwan/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/SangamSangwan/Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
