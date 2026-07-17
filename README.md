@@ -71,6 +71,7 @@
 | [0728-self-dividing-numbers](https://github.com/SangamSangwan/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/SangamSangwan/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2396-strictly-palindromic-number](https://github.com/SangamSangwan/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2651-calculate-delayed-arrival-time](https://github.com/SangamSangwan/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/SangamSangwan/Leetcode/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SangamSangwan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -96,6 +97,7 @@
 | [0061-rotate-list](https://github.com/SangamSangwan/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SangamSangwan/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2396-strictly-palindromic-number](https://github.com/SangamSangwan/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2460-apply-operations-to-an-array](https://github.com/SangamSangwan/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SangamSangwan/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3649-number-of-perfect-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/3649-number-of-perfect-pairs) |
@@ -248,4 +250,8 @@
 |  |
 | ------- |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SangamSangwan/Leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/SangamSangwan/Leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
