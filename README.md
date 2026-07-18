@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [1920-build-array-from-permutation](https://github.com/SangamSangwan/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2293-min-max-game](https://github.com/SangamSangwan/Leetcode/tree/master/2293-min-max-game) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SangamSangwan/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/SangamSangwan/Leetcode/tree/master/2460-apply-operations-to-an-array) |
@@ -42,6 +43,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SangamSangwan/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1598-crawler-log-folder](https://github.com/SangamSangwan/Leetcode/tree/master/1598-crawler-log-folder) |
+| [1920-build-array-from-permutation](https://github.com/SangamSangwan/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SangamSangwan/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/SangamSangwan/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/SangamSangwan/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
