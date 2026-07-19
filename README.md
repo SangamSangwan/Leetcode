@@ -52,6 +52,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SangamSangwan/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/SangamSangwan/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SangamSangwan/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/SangamSangwan/Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/SangamSangwan/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SangamSangwan/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SangamSangwan/Leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
@@ -152,6 +153,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SangamSangwan/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SangamSangwan/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SangamSangwan/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/SangamSangwan/Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SangamSangwan/Leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2860-happy-students](https://github.com/SangamSangwan/Leetcode/tree/master/2860-happy-students) |
 | [3649-number-of-perfect-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/3649-number-of-perfect-pairs) |
@@ -183,6 +185,7 @@
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SangamSangwan/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/SangamSangwan/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/SangamSangwan/Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SangamSangwan/Leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 ## Binary Tree
 |  |
@@ -216,6 +219,7 @@
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/SangamSangwan/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/SangamSangwan/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/SangamSangwan/Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Bit Manipulation
 |  |
 | ------- |
