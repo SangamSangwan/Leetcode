@@ -37,6 +37,7 @@
 | [0064-minimum-path-sum](https://github.com/SangamSangwan/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/SangamSangwan/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/SangamSangwan/Leetcode/tree/master/0078-subsets) |
+| [0812-largest-triangle-area](https://github.com/SangamSangwan/Leetcode/tree/master/0812-largest-triangle-area) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SangamSangwan/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/SangamSangwan/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SangamSangwan/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -73,6 +74,7 @@
 | [0070-climbing-stairs](https://github.com/SangamSangwan/Leetcode/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/SangamSangwan/Leetcode/tree/master/0279-perfect-squares) |
 | [0728-self-dividing-numbers](https://github.com/SangamSangwan/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [0812-largest-triangle-area](https://github.com/SangamSangwan/Leetcode/tree/master/0812-largest-triangle-area) |
 | [1486-xor-operation-in-an-array](https://github.com/SangamSangwan/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/SangamSangwan/Leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -263,4 +265,8 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/SangamSangwan/Leetcode/tree/master/2396-strictly-palindromic-number) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/SangamSangwan/Leetcode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
