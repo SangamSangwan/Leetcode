@@ -39,6 +39,7 @@
 | [0066-plus-one](https://github.com/SangamSangwan/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/SangamSangwan/Leetcode/tree/master/0078-subsets) |
 | [0812-largest-triangle-area](https://github.com/SangamSangwan/Leetcode/tree/master/0812-largest-triangle-area) |
+| [0983-minimum-cost-for-tickets](https://github.com/SangamSangwan/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SangamSangwan/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/SangamSangwan/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SangamSangwan/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -118,6 +119,7 @@
 | [0064-minimum-path-sum](https://github.com/SangamSangwan/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/SangamSangwan/Leetcode/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/SangamSangwan/Leetcode/tree/master/0279-perfect-squares) |
+| [0983-minimum-cost-for-tickets](https://github.com/SangamSangwan/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 ## Combinatorics
 |  |
 | ------- |
