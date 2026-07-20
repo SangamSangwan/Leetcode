@@ -6,6 +6,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SangamSangwan/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0771-jewels-and-stones](https://github.com/SangamSangwan/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0830-positions-of-large-groups](https://github.com/SangamSangwan/Leetcode/tree/master/0830-positions-of-large-groups) |
 | [0859-buddy-strings](https://github.com/SangamSangwan/Leetcode/tree/master/0859-buddy-strings) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/SangamSangwan/Leetcode/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1496-path-crossing](https://github.com/SangamSangwan/Leetcode/tree/master/1496-path-crossing) |
