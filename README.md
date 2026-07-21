@@ -38,6 +38,7 @@
 | [0064-minimum-path-sum](https://github.com/SangamSangwan/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/SangamSangwan/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/SangamSangwan/Leetcode/tree/master/0078-subsets) |
+| [0229-majority-element-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0229-majority-element-ii) |
 | [0812-largest-triangle-area](https://github.com/SangamSangwan/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0983-minimum-cost-for-tickets](https://github.com/SangamSangwan/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SangamSangwan/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SangamSangwan/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0229-majority-element-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0229-majority-element-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SangamSangwan/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/SangamSangwan/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0859-buddy-strings](https://github.com/SangamSangwan/Leetcode/tree/master/0859-buddy-strings) |
@@ -155,6 +157,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0229-majority-element-ii) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SangamSangwan/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SangamSangwan/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SangamSangwan/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -174,6 +177,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0229-majority-element-ii) |
 | [1512-number-of-good-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/SangamSangwan/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Tree
