@@ -56,6 +56,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SangamSangwan/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/SangamSangwan/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SangamSangwan/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/SangamSangwan/Leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/SangamSangwan/Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/SangamSangwan/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SangamSangwan/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -110,6 +111,7 @@
 | [2396-strictly-palindromic-number](https://github.com/SangamSangwan/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2460-apply-operations-to-an-array](https://github.com/SangamSangwan/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SangamSangwan/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/SangamSangwan/Leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [3649-number-of-perfect-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/3649-number-of-perfect-pairs) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/SangamSangwan/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Dynamic Programming
@@ -152,6 +154,7 @@
 | [0011-container-with-most-water](https://github.com/SangamSangwan/Leetcode/tree/master/0011-container-with-most-water) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/SangamSangwan/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SangamSangwan/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/SangamSangwan/Leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/SangamSangwan/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SangamSangwan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
@@ -162,6 +165,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SangamSangwan/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SangamSangwan/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SangamSangwan/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/SangamSangwan/Leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/SangamSangwan/Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SangamSangwan/Leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2860-happy-students](https://github.com/SangamSangwan/Leetcode/tree/master/2860-happy-students) |
@@ -195,6 +199,7 @@
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SangamSangwan/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/SangamSangwan/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/SangamSangwan/Leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/SangamSangwan/Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SangamSangwan/Leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 ## Binary Tree
