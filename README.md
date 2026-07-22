@@ -40,6 +40,7 @@
 | [0066-plus-one](https://github.com/SangamSangwan/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/SangamSangwan/Leetcode/tree/master/0078-subsets) |
 | [0229-majority-element-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0229-majority-element-ii) |
+| [0740-delete-and-earn](https://github.com/SangamSangwan/Leetcode/tree/master/0740-delete-and-earn) |
 | [0812-largest-triangle-area](https://github.com/SangamSangwan/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0983-minimum-cost-for-tickets](https://github.com/SangamSangwan/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SangamSangwan/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -123,6 +124,7 @@
 | [0064-minimum-path-sum](https://github.com/SangamSangwan/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/SangamSangwan/Leetcode/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/SangamSangwan/Leetcode/tree/master/0279-perfect-squares) |
+| [0740-delete-and-earn](https://github.com/SangamSangwan/Leetcode/tree/master/0740-delete-and-earn) |
 | [0983-minimum-cost-for-tickets](https://github.com/SangamSangwan/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 ## Combinatorics
 |  |
@@ -139,6 +141,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SangamSangwan/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0229-majority-element-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0229-majority-element-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SangamSangwan/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0740-delete-and-earn](https://github.com/SangamSangwan/Leetcode/tree/master/0740-delete-and-earn) |
 | [0771-jewels-and-stones](https://github.com/SangamSangwan/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0859-buddy-strings](https://github.com/SangamSangwan/Leetcode/tree/master/0859-buddy-strings) |
 | [1496-path-crossing](https://github.com/SangamSangwan/Leetcode/tree/master/1496-path-crossing) |
