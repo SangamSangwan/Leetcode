@@ -17,6 +17,7 @@
 | [2278-percentage-of-letter-in-string](https://github.com/SangamSangwan/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2299-strong-password-checker-ii](https://github.com/SangamSangwan/Leetcode/tree/master/2299-strong-password-checker-ii) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/SangamSangwan/Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/SangamSangwan/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2810-faulty-keyboard](https://github.com/SangamSangwan/Leetcode/tree/master/2810-faulty-keyboard) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SangamSangwan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/SangamSangwan/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
@@ -153,6 +154,7 @@
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/SangamSangwan/Leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/SangamSangwan/Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SangamSangwan/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/SangamSangwan/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SangamSangwan/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SangamSangwan/Leetcode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Greedy
@@ -192,6 +194,7 @@
 | [0229-majority-element-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0229-majority-element-ii) |
 | [1512-number-of-good-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/SangamSangwan/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/SangamSangwan/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 ## Tree
 |  |
 | ------- |
