@@ -21,6 +21,7 @@
 | [2810-faulty-keyboard](https://github.com/SangamSangwan/Leetcode/tree/master/2810-faulty-keyboard) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SangamSangwan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/SangamSangwan/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3941-password-strength](https://github.com/SangamSangwan/Leetcode/tree/master/3941-password-strength) |
 ## Simulation
 |  |
 | ------- |
@@ -157,6 +158,7 @@
 | [2423-remove-letter-to-equalize-frequency](https://github.com/SangamSangwan/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SangamSangwan/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SangamSangwan/Leetcode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3941-password-strength](https://github.com/SangamSangwan/Leetcode/tree/master/3941-password-strength) |
 ## Greedy
 |  |
 | ------- |
