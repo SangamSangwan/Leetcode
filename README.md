@@ -54,6 +54,7 @@
 | [1920-build-array-from-permutation](https://github.com/SangamSangwan/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SangamSangwan/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/SangamSangwan/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SangamSangwan/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SangamSangwan/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/SangamSangwan/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/SangamSangwan/Leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -87,6 +88,7 @@
 | [0812-largest-triangle-area](https://github.com/SangamSangwan/Leetcode/tree/master/0812-largest-triangle-area) |
 | [1486-xor-operation-in-an-array](https://github.com/SangamSangwan/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SangamSangwan/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2396-strictly-palindromic-number](https://github.com/SangamSangwan/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2651-calculate-delayed-arrival-time](https://github.com/SangamSangwan/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/SangamSangwan/Leetcode/tree/master/2652-sum-multiples) |
@@ -175,6 +177,7 @@
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SangamSangwan/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SangamSangwan/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SangamSangwan/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SangamSangwan/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SangamSangwan/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SangamSangwan/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/SangamSangwan/Leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
@@ -236,6 +239,7 @@
 | [0059-spiral-matrix-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SangamSangwan/Leetcode/tree/master/0064-minimum-path-sum) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SangamSangwan/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Memoization
 |  |
 | ------- |
