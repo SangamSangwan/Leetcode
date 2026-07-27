@@ -207,6 +207,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SangamSangwan/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/SangamSangwan/Leetcode/tree/master/0101-symmetric-tree) |
 | [0617-merge-two-binary-trees](https://github.com/SangamSangwan/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SangamSangwan/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/SangamSangwan/Leetcode/tree/master/0938-range-sum-of-bst) |
@@ -214,6 +215,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SangamSangwan/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/SangamSangwan/Leetcode/tree/master/0101-symmetric-tree) |
 | [0617-merge-two-binary-trees](https://github.com/SangamSangwan/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SangamSangwan/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/SangamSangwan/Leetcode/tree/master/0938-range-sum-of-bst) |
@@ -229,6 +231,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SangamSangwan/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/SangamSangwan/Leetcode/tree/master/0101-symmetric-tree) |
 | [0617-merge-two-binary-trees](https://github.com/SangamSangwan/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SangamSangwan/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/SangamSangwan/Leetcode/tree/master/0938-range-sum-of-bst) |
@@ -294,6 +297,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/SangamSangwan/Leetcode/tree/master/0101-symmetric-tree) |
 | [0279-perfect-squares](https://github.com/SangamSangwan/Leetcode/tree/master/0279-perfect-squares) |
 | [0617-merge-two-binary-trees](https://github.com/SangamSangwan/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SangamSangwan/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
