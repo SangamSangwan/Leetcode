@@ -45,6 +45,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0740-delete-and-earn](https://github.com/SangamSangwan/Leetcode/tree/master/0740-delete-and-earn) |
 | [0812-largest-triangle-area](https://github.com/SangamSangwan/Leetcode/tree/master/0812-largest-triangle-area) |
+| [0941-valid-mountain-array](https://github.com/SangamSangwan/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/SangamSangwan/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1089-duplicate-zeros](https://github.com/SangamSangwan/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SangamSangwan/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
