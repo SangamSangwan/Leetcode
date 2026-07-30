@@ -45,6 +45,7 @@
 | [0078-subsets](https://github.com/SangamSangwan/Leetcode/tree/master/0078-subsets) |
 | [0229-majority-element-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0229-majority-element-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0485-max-consecutive-ones](https://github.com/SangamSangwan/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0740-delete-and-earn](https://github.com/SangamSangwan/Leetcode/tree/master/0740-delete-and-earn) |
 | [0812-largest-triangle-area](https://github.com/SangamSangwan/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0941-valid-mountain-array](https://github.com/SangamSangwan/Leetcode/tree/master/0941-valid-mountain-array) |
