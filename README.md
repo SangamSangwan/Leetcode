@@ -64,6 +64,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/SangamSangwan/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SangamSangwan/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SangamSangwan/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2187-minimum-time-to-complete-trips](https://github.com/SangamSangwan/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/SangamSangwan/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/SangamSangwan/Leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2293-min-max-game](https://github.com/SangamSangwan/Leetcode/tree/master/2293-min-max-game) |
@@ -239,6 +240,7 @@
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SangamSangwan/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/SangamSangwan/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [2187-minimum-time-to-complete-trips](https://github.com/SangamSangwan/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/SangamSangwan/Leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/SangamSangwan/Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SangamSangwan/Leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
