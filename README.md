@@ -23,6 +23,7 @@
 | [2810-faulty-keyboard](https://github.com/SangamSangwan/Leetcode/tree/master/2810-faulty-keyboard) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SangamSangwan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/SangamSangwan/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/SangamSangwan/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3941-password-strength](https://github.com/SangamSangwan/Leetcode/tree/master/3941-password-strength) |
 ## Simulation
 |  |
@@ -175,6 +176,7 @@
 | [2423-remove-letter-to-equalize-frequency](https://github.com/SangamSangwan/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SangamSangwan/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SangamSangwan/Leetcode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/SangamSangwan/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3941-password-strength](https://github.com/SangamSangwan/Leetcode/tree/master/3941-password-strength) |
 ## Greedy
 |  |
@@ -187,6 +189,7 @@
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/SangamSangwan/Leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/SangamSangwan/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SangamSangwan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/SangamSangwan/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -203,6 +206,7 @@
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/SangamSangwan/Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SangamSangwan/Leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2860-happy-students](https://github.com/SangamSangwan/Leetcode/tree/master/2860-happy-students) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/SangamSangwan/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3649-number-of-perfect-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/3649-number-of-perfect-pairs) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/SangamSangwan/Leetcode/tree/master/3769-sort-integers-by-binary-reflection) |
 ## Enumeration
@@ -219,6 +223,7 @@
 | [1512-number-of-good-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/SangamSangwan/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/SangamSangwan/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/SangamSangwan/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Tree
 |  |
 | ------- |
