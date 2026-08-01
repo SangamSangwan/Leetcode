@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [1222-queens-that-can-attack-the-king](https://github.com/SangamSangwan/Leetcode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1920-build-array-from-permutation](https://github.com/SangamSangwan/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2293-min-max-game](https://github.com/SangamSangwan/Leetcode/tree/master/2293-min-max-game) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SangamSangwan/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -55,6 +56,7 @@
 | [0983-minimum-cost-for-tickets](https://github.com/SangamSangwan/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/SangamSangwan/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1089-duplicate-zeros](https://github.com/SangamSangwan/Leetcode/tree/master/1089-duplicate-zeros) |
+| [1222-queens-that-can-attack-the-king](https://github.com/SangamSangwan/Leetcode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SangamSangwan/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SangamSangwan/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/SangamSangwan/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -280,6 +282,7 @@
 | [0059-spiral-matrix-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SangamSangwan/Leetcode/tree/master/0064-minimum-path-sum) |
+| [1222-queens-that-can-attack-the-king](https://github.com/SangamSangwan/Leetcode/tree/master/1222-queens-that-can-attack-the-king) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SangamSangwan/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Memoization
 |  |
