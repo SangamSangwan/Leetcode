@@ -74,6 +74,7 @@
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SangamSangwan/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/SangamSangwan/Leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/SangamSangwan/Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/SangamSangwan/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SangamSangwan/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SangamSangwan/Leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
@@ -146,6 +147,7 @@
 | [0678-valid-parenthesis-string](https://github.com/SangamSangwan/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/SangamSangwan/Leetcode/tree/master/0740-delete-and-earn) |
 | [0983-minimum-cost-for-tickets](https://github.com/SangamSangwan/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Combinatorics
 |  |
 | ------- |
@@ -187,6 +189,7 @@
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/SangamSangwan/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SangamSangwan/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/SangamSangwan/Leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/SangamSangwan/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SangamSangwan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/SangamSangwan/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -204,6 +207,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SangamSangwan/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/SangamSangwan/Leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/SangamSangwan/Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SangamSangwan/Leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2860-happy-students](https://github.com/SangamSangwan/Leetcode/tree/master/2860-happy-students) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/SangamSangwan/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -248,6 +252,7 @@
 | [2187-minimum-time-to-complete-trips](https://github.com/SangamSangwan/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/SangamSangwan/Leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/SangamSangwan/Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SangamSangwan/Leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 ## Binary Tree
 |  |
