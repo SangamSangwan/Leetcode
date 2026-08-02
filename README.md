@@ -25,6 +25,7 @@
 | [2810-faulty-keyboard](https://github.com/SangamSangwan/Leetcode/tree/master/2810-faulty-keyboard) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SangamSangwan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/SangamSangwan/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SangamSangwan/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/SangamSangwan/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3941-password-strength](https://github.com/SangamSangwan/Leetcode/tree/master/3941-password-strength) |
 ## Simulation
@@ -38,6 +39,7 @@
 | [2460-apply-operations-to-an-array](https://github.com/SangamSangwan/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2810-faulty-keyboard](https://github.com/SangamSangwan/Leetcode/tree/master/2810-faulty-keyboard) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/SangamSangwan/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SangamSangwan/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 | [2652-sum-multiples](https://github.com/SangamSangwan/Leetcode/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SangamSangwan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/SangamSangwan/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SangamSangwan/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3648-minimum-sensors-to-cover-grid](https://github.com/SangamSangwan/Leetcode/tree/master/3648-minimum-sensors-to-cover-grid) |
 | [3649-number-of-perfect-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/3649-number-of-perfect-pairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SangamSangwan/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -161,6 +164,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SangamSangwan/Leetcode/tree/master/0062-unique-paths) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SangamSangwan/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
 |  |
 | ------- |
@@ -294,6 +298,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SangamSangwan/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SangamSangwan/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Monotonic Stack
 |  |
