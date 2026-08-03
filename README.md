@@ -106,6 +106,7 @@
 | [0279-perfect-squares](https://github.com/SangamSangwan/Leetcode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/SangamSangwan/Leetcode/tree/master/0292-nim-game) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0593-valid-square](https://github.com/SangamSangwan/Leetcode/tree/master/0593-valid-square) |
 | [0728-self-dividing-numbers](https://github.com/SangamSangwan/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/SangamSangwan/Leetcode/tree/master/0812-largest-triangle-area) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SangamSangwan/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -366,6 +367,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0593-valid-square](https://github.com/SangamSangwan/Leetcode/tree/master/0593-valid-square) |
 | [0812-largest-triangle-area](https://github.com/SangamSangwan/Leetcode/tree/master/0812-largest-triangle-area) |
 ## Game Theory
 |  |
