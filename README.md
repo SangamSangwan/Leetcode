@@ -94,6 +94,7 @@
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/SangamSangwan/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3200-maximum-height-of-a-triangle](https://github.com/SangamSangwan/Leetcode/tree/master/3200-maximum-height-of-a-triangle) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SangamSangwan/Leetcode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/SangamSangwan/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3649-number-of-perfect-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/3649-number-of-perfect-pairs) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/SangamSangwan/Leetcode/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3861-minimum-capacity-box](https://github.com/SangamSangwan/Leetcode/tree/master/3861-minimum-capacity-box) |
@@ -123,6 +124,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SangamSangwan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/SangamSangwan/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SangamSangwan/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/SangamSangwan/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3648-minimum-sensors-to-cover-grid](https://github.com/SangamSangwan/Leetcode/tree/master/3648-minimum-sensors-to-cover-grid) |
 | [3649-number-of-perfect-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/3649-number-of-perfect-pairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SangamSangwan/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -215,6 +217,7 @@
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/SangamSangwan/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SangamSangwan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/SangamSangwan/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/SangamSangwan/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Sorting
 |  |
 | ------- |
@@ -236,6 +239,7 @@
 | [2860-happy-students](https://github.com/SangamSangwan/Leetcode/tree/master/2860-happy-students) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SangamSangwan/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/SangamSangwan/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/SangamSangwan/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3649-number-of-perfect-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/3649-number-of-perfect-pairs) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/SangamSangwan/Leetcode/tree/master/3769-sort-integers-by-binary-reflection) |
 ## Enumeration
@@ -381,6 +385,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SangamSangwan/Leetcode/tree/master/0292-nim-game) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/SangamSangwan/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Counting Sort
 |  |
 | ------- |
