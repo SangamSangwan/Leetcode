@@ -26,6 +26,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SangamSangwan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/SangamSangwan/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SangamSangwan/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SangamSangwan/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/SangamSangwan/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3941-password-strength](https://github.com/SangamSangwan/Leetcode/tree/master/3941-password-strength) |
 ## Simulation
@@ -232,6 +233,7 @@
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SangamSangwan/Leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2860-happy-students](https://github.com/SangamSangwan/Leetcode/tree/master/2860-happy-students) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SangamSangwan/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/SangamSangwan/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3649-number-of-perfect-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/3649-number-of-perfect-pairs) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/SangamSangwan/Leetcode/tree/master/3769-sort-integers-by-binary-reflection) |
@@ -378,4 +380,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SangamSangwan/Leetcode/tree/master/0292-nim-game) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SangamSangwan/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
