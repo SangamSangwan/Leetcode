@@ -19,6 +19,7 @@
 | [1598-crawler-log-folder](https://github.com/SangamSangwan/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/SangamSangwan/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/SangamSangwan/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [1980-find-unique-binary-string](https://github.com/SangamSangwan/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SangamSangwan/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2278-percentage-of-letter-in-string](https://github.com/SangamSangwan/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2299-strong-password-checker-ii](https://github.com/SangamSangwan/Leetcode/tree/master/2299-strong-password-checker-ii) |
@@ -74,6 +75,7 @@
 | [1598-crawler-log-folder](https://github.com/SangamSangwan/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1920-build-array-from-permutation](https://github.com/SangamSangwan/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [1980-find-unique-binary-string](https://github.com/SangamSangwan/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SangamSangwan/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/SangamSangwan/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SangamSangwan/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -197,6 +199,7 @@
 | [1496-path-crossing](https://github.com/SangamSangwan/Leetcode/tree/master/1496-path-crossing) |
 | [1512-number-of-good-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1980-find-unique-binary-string](https://github.com/SangamSangwan/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SangamSangwan/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/SangamSangwan/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/SangamSangwan/Leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -356,6 +359,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SangamSangwan/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/SangamSangwan/Leetcode/tree/master/0078-subsets) |
 | [0784-letter-case-permutation](https://github.com/SangamSangwan/Leetcode/tree/master/0784-letter-case-permutation) |
+| [1980-find-unique-binary-string](https://github.com/SangamSangwan/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Recursion
 |  |
 | ------- |
