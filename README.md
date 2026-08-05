@@ -13,6 +13,7 @@
 | [0784-letter-case-permutation](https://github.com/SangamSangwan/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0830-positions-of-large-groups](https://github.com/SangamSangwan/Leetcode/tree/master/0830-positions-of-large-groups) |
 | [0859-buddy-strings](https://github.com/SangamSangwan/Leetcode/tree/master/0859-buddy-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/SangamSangwan/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/SangamSangwan/Leetcode/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1496-path-crossing](https://github.com/SangamSangwan/Leetcode/tree/master/1496-path-crossing) |
 | [1598-crawler-log-folder](https://github.com/SangamSangwan/Leetcode/tree/master/1598-crawler-log-folder) |
@@ -192,6 +193,7 @@
 | [0740-delete-and-earn](https://github.com/SangamSangwan/Leetcode/tree/master/0740-delete-and-earn) |
 | [0771-jewels-and-stones](https://github.com/SangamSangwan/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0859-buddy-strings](https://github.com/SangamSangwan/Leetcode/tree/master/0859-buddy-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/SangamSangwan/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1496-path-crossing](https://github.com/SangamSangwan/Leetcode/tree/master/1496-path-crossing) |
 | [1512-number-of-good-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -254,6 +256,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0229-majority-element-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/SangamSangwan/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/SangamSangwan/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/SangamSangwan/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
