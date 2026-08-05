@@ -169,6 +169,7 @@
 | [0070-climbing-stairs](https://github.com/SangamSangwan/Leetcode/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/SangamSangwan/Leetcode/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/SangamSangwan/Leetcode/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/SangamSangwan/Leetcode/tree/master/0397-integer-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/SangamSangwan/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/SangamSangwan/Leetcode/tree/master/0740-delete-and-earn) |
 | [0983-minimum-cost-for-tickets](https://github.com/SangamSangwan/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
@@ -214,6 +215,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SangamSangwan/Leetcode/tree/master/0011-container-with-most-water) |
+| [0397-integer-replacement](https://github.com/SangamSangwan/Leetcode/tree/master/0397-integer-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/SangamSangwan/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/SangamSangwan/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/SangamSangwan/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
@@ -315,6 +317,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SangamSangwan/Leetcode/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/SangamSangwan/Leetcode/tree/master/0397-integer-replacement) |
 ## Number Theory
 |  |
 | ------- |
@@ -335,6 +338,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/SangamSangwan/Leetcode/tree/master/0078-subsets) |
+| [0397-integer-replacement](https://github.com/SangamSangwan/Leetcode/tree/master/0397-integer-replacement) |
 | [0784-letter-case-permutation](https://github.com/SangamSangwan/Leetcode/tree/master/0784-letter-case-permutation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SangamSangwan/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/SangamSangwan/Leetcode/tree/master/1486-xor-operation-in-an-array) |
