@@ -16,6 +16,7 @@
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/SangamSangwan/Leetcode/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1496-path-crossing](https://github.com/SangamSangwan/Leetcode/tree/master/1496-path-crossing) |
 | [1598-crawler-log-folder](https://github.com/SangamSangwan/Leetcode/tree/master/1598-crawler-log-folder) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/SangamSangwan/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/SangamSangwan/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SangamSangwan/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2278-percentage-of-letter-in-string](https://github.com/SangamSangwan/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
