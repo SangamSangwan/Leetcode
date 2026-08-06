@@ -61,6 +61,7 @@
 | [0485-max-consecutive-ones](https://github.com/SangamSangwan/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0740-delete-and-earn](https://github.com/SangamSangwan/Leetcode/tree/master/0740-delete-and-earn) |
 | [0812-largest-triangle-area](https://github.com/SangamSangwan/Leetcode/tree/master/0812-largest-triangle-area) |
+| [0825-friends-of-appropriate-ages](https://github.com/SangamSangwan/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0941-valid-mountain-array](https://github.com/SangamSangwan/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/SangamSangwan/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/SangamSangwan/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -153,6 +154,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0392-is-subsequence](https://github.com/SangamSangwan/Leetcode/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SangamSangwan/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0825-friends-of-appropriate-ages](https://github.com/SangamSangwan/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [1089-duplicate-zeros](https://github.com/SangamSangwan/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/SangamSangwan/Leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -234,6 +236,7 @@
 | [0049-group-anagrams](https://github.com/SangamSangwan/Leetcode/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0229-majority-element-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SangamSangwan/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0825-friends-of-appropriate-ages](https://github.com/SangamSangwan/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SangamSangwan/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SangamSangwan/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SangamSangwan/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -289,6 +292,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SangamSangwan/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SangamSangwan/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0825-friends-of-appropriate-ages](https://github.com/SangamSangwan/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0938-range-sum-of-bst](https://github.com/SangamSangwan/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [2187-minimum-time-to-complete-trips](https://github.com/SangamSangwan/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/SangamSangwan/Leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
