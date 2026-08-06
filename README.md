@@ -97,6 +97,7 @@
 | [2860-happy-students](https://github.com/SangamSangwan/Leetcode/tree/master/2860-happy-students) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/SangamSangwan/Leetcode/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/SangamSangwan/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3151-special-array-i](https://github.com/SangamSangwan/Leetcode/tree/master/3151-special-array-i) |
 | [3200-maximum-height-of-a-triangle](https://github.com/SangamSangwan/Leetcode/tree/master/3200-maximum-height-of-a-triangle) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SangamSangwan/Leetcode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/SangamSangwan/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
