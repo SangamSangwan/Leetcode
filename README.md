@@ -73,6 +73,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SangamSangwan/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1598-crawler-log-folder](https://github.com/SangamSangwan/Leetcode/tree/master/1598-crawler-log-folder) |
+| [1664-ways-to-make-a-fair-array](https://github.com/SangamSangwan/Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SangamSangwan/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1920-build-array-from-permutation](https://github.com/SangamSangwan/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1980-find-unique-binary-string](https://github.com/SangamSangwan/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -332,6 +333,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SangamSangwan/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/SangamSangwan/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1664-ways-to-make-a-fair-array](https://github.com/SangamSangwan/Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/SangamSangwan/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/SangamSangwan/Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Bit Manipulation
