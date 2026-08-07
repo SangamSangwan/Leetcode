@@ -99,6 +99,7 @@
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/SangamSangwan/Leetcode/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/SangamSangwan/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3151-special-array-i](https://github.com/SangamSangwan/Leetcode/tree/master/3151-special-array-i) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SangamSangwan/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3200-maximum-height-of-a-triangle](https://github.com/SangamSangwan/Leetcode/tree/master/3200-maximum-height-of-a-triangle) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SangamSangwan/Leetcode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/SangamSangwan/Leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -212,6 +213,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/SangamSangwan/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/SangamSangwan/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SangamSangwan/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SangamSangwan/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SangamSangwan/Leetcode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/SangamSangwan/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3941-password-strength](https://github.com/SangamSangwan/Leetcode/tree/master/3941-password-strength) |
@@ -349,6 +351,7 @@
 | [0784-letter-case-permutation](https://github.com/SangamSangwan/Leetcode/tree/master/0784-letter-case-permutation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SangamSangwan/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/SangamSangwan/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SangamSangwan/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Divide and Conquer
 |  |
 | ------- |
